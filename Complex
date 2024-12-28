@@ -1,0 +1,6 @@
+n = 90
+com = complex(n)
+
+print(n)
+print(com)
+ 
